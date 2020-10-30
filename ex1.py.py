@@ -1,0 +1,8 @@
+print("Hello World!")
+# -- Octothorpe print("Hello Again")
+print("I like typing this.")
+print("This is fun.")
+# -- Octothorpe print('Yay! Printing.')
+# -- Octothorpe print('I "said" do not touch this.')
+# -- Octothorpe print("I'd much rather you 'not'.")
+print("Here's another line from the exercise.")

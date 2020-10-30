@@ -1,0 +1,2 @@
+# My final day is November 23, so the number of days I have remaining must be 23 days of November, and 2 days of October added
+print("The number of days I have remaining at Chaayos, including today, are: ", 23 + 2)
